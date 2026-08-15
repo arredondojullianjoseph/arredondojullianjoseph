@@ -11,8 +11,8 @@
 *   🎓 **Academics:** B.S. Physics (Expected Dec 2026) 
 *   🪖 **Background:** U.S. Air Force veteran with specialized analytical and leadership experience
 *   🔬 **Research Interests:** Reactor physics, nuclear reactor kinetics, and computational methods for nuclear systems.
-*   🌍 **Academic Goals:** Currently preparing for Fall 2027 graduate admissions in nuclear engineering, targeting top-tier research institutions in the U.S. and Japan (including Hokkaido University, Tohoku University, Kyushu University, University of Michigan, NC State, and Virginia Tech).
-*   🚀 **Featured Project:** `point-kinetics-solver` — A six-group point reactor kinetics solver in Python. It solves the coupled prompt-neutron/precursor ODEs using a stiff Radau integrator to handle the extreme timescale differences between prompt neutron lifetimes and delayed precursor decay.
+*   🌍 **Academic Goals:** Currently preparing for Fall 2027 graduate admissions in nuclear engineering, targeting top-tier research institutions in the U.S. and Japan
+*   🚀 **Featured Project:** `point-kinetics-solver` — A six-group point reactor kinetics solver in Python. It solves the coupled prompt-neutron/precursor ODEs using a stiff Radau integrator to handle the extreme timescale differences between prompt neutron lifetimes and delayed precursor decay
 
 ### 🛠️ Tools & Skills
 *   💻 **Tech Stack:** MATLAB, Python, NumPy, SciPy, Matplotlib, Git
