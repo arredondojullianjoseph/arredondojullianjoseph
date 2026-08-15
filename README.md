@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm Jullian Arredondo 👋</h2>
+  <h2>Hi, I'm Jullian J. Arredondo 👋</h2>
   <h4>U.S. Air Force Veteran ➝ Physics Undergrad ➝ Future Nuclear Engineer ☢️</h4>
 
   [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:ArredondoJullianJoseph@gmail.com)
