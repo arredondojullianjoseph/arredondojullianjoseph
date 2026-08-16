@@ -16,6 +16,6 @@
 
 ### 🛠️ Tools & Skills
 *   💻 **Tech Stack:** MATLAB, Python, NumPy, SciPy, Matplotlib, Git
-*   🗣️ **Languages:** English (Native), Spanish (DLPT:3/3/2), Japanese (~N4)
+*   🗣️ **Languages:** English (Native), Spanish (DLPT:3/3/2), Japanese (Elementary, self-study)
 ### 📫 Get in Touch
 Feel free to reach out about reactor physics, computational nuclear methods, or graduate research collaboration!
