@@ -13,7 +13,7 @@ Reactor physics and computational methods: point kinetics, deterministic diffusi
 ### Repositories
 - **[point-kinetics-solver](https://github.com/arredondojullianjoseph/point-kinetics-solver)** — six-group PKE, stiff Radau integrator, verified against the inhour equation and the prompt-jump approximation (errors &lt; 1%).
 - **[Multi-Group-Diffusion-Solver](https://github.com/arredondojullianjoseph/Multi-Group-Diffusion-Solver)** — 1D one-group finite-difference eigenvalue solver with a two-region benchmark. Multi-group extension is planned and currently paused.
-- **[mmpa-decay-solver](https://github.com/arredondojullianjoseph/mmpa-decay-solver)** — MMPA matrix-exponential solver for linear decay chains, checked against the Bateman closed form on a four-isotope test chain (order 32).
+- **[mmpa-decay-solver](https://github.com/arredondojullianjoseph/mmpa-decay-solver)** — MMPA apply for linear decay chains. Order 32 checked against Bateman on a four-isotope chain and a Gd-157-style absorber chain.
   
 ### Tools
 Python, NumPy, SciPy, Matplotlib, MATLAB, Git.
