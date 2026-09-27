@@ -19,4 +19,4 @@ Reactor physics and computational methods: point kinetics, deterministic diffusi
 Python, NumPy, SciPy, Matplotlib, MATLAB, Git.
 
 ### Languages
-English (native), Spanish (DLPT 3/3/2), Japanese (elementary).
+English (native), Spanish (DLPT 3/3/2), Japanese (N4 in December).
