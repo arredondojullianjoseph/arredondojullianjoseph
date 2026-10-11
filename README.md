@@ -7,7 +7,7 @@
 </div>
 
 ### Focus
-I want to design machines and structures that move under load, using simulations I implemented and checked thoroughly.
+I want to design machines and structures that move under load, building and rigorously validating predictive numerical models for physical systems.
 
 ### Repositories
 - **[Analytical_Mechanics_Numerical_Methods_Projects](https://github.com/arredondojullianjoseph/Analytical_Mechanics_Numerical_Methods_Projects)** — Bead on a vertical loop: constraint motion with drag and friction. Work-energy check to 1e-5; peak g-force 5.69 once laps stop speeding up. Course project, in progress.
@@ -15,7 +15,7 @@ I want to design machines and structures that move under load, using simulations
 - **[point-kinetics-solver](https://github.com/arredondojullianjoseph/point-kinetics-solver)** — Six-group point kinetics, SciPy Radau. Step insertion vs inhour 0.21%; prompt-jump 0.66%.
 - **[Multi-Group-Diffusion-Solver](https://github.com/arredondojullianjoseph/Multi-Group-Diffusion-Solver)** — 1D one-group finite-difference *k*-eigenvalue solver. Second-order on a bare slab; two-region check against a criticality condition I derived. One-group only.
 
-The last three came from reactor-physics coursework. The transferable part is the check, not the application.
+*While several projects draw from specialized physics contexts, the underlying methodology: formulating governing differential equations, implementing stable numerical solvers, and verifying results against analytical benchmarks is universally applicable to mechanical systems and structural analysis.*
 
 ### Tools
 Python, NumPy, SciPy, Matplotlib, MATLAB, Git.
