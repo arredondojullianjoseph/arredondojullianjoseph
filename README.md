@@ -1,13 +1,13 @@
 <div align="center">
   <h2>Jullian J. Arredondo</h2>
   <h4>U.S. Air Force Veteran → Physics (B.S., Dec 2026) → Mechanical Engineering</h4>
-  <a href="mailto:ArredondoJullianJoseph@gmail.com">ArredondoJullianJoseph@gmail.com</a>
+  <a href="mailto:ArredondoJullianJoseph@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email"></a>
 </div>
 
 Liberty University. Applying to residential M.S. programs in mechanical engineering, Fall 2027.
 
 ### Focus
-Verified numerical methods for physical systems. I implement a model and check it. I want that habit on machines and structures that move under load.
+I want to design machines and structures that move under load, using simulations I implemented and checked thoroughly.
 
 ### Repositories
 - **[Analytical_Mechanics_Numerical_Methods_Projects](https://github.com/arredondojullianjoseph/Analytical_Mechanics_Numerical_Methods_Projects)** — Bead on a vertical loop: constraint motion with drag and friction. Work-energy check to 1e-5; peak g-force 5.69 once laps stop speeding up. Course project, in progress.
