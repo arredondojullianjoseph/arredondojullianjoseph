@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Jullian J. Arredondo</h2>
   <h4>U.S. Air Force Veteran → Physics (B.S., Dec 2026) → Mechanical Engineering</h4>
-  <a href="mailto:ArredondoJullianJoseph@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:ArredondoJullianJoseph@gmail.com">ArredondoJullianJoseph@gmail.com</a>
 </div>
 
 Liberty University. Applying to residential M.S. programs in mechanical engineering, Fall 2027.
