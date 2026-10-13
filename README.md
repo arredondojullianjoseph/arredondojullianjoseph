@@ -10,7 +10,6 @@
 I want to design machines and structures that move under load, building and rigorously validating predictive numerical models for physical systems.
 
 ### Repositories
-- **[slider-crank-solver](https://github.com/arredondojullianjoseph/slider-crank-solver)** — In-line slider-crank closed-form travel; numerical dx/dtheta and d2x/dtheta2 with a periodic wrap. Loop-closure check planned.
 - **[Analytical_Mechanics_Numerical_Methods_Projects](https://github.com/arredondojullianjoseph/Analytical_Mechanics_Numerical_Methods_Projects)** — Bead on a vertical loop: constraint motion with drag and friction. Work-energy check to 1e-5; peak g-force 5.69 once laps stop speeding up. Course project, in progress.
 
 *Earlier computational physics work demonstrating verification practices:*
