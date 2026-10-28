@@ -10,6 +10,7 @@
 I want to design machines and structures that move under load, building and rigorously validating predictive numerical models for physical systems.
 
 ### Repositories
+- **[euler-bernoulli-beam-solver](https://github.com/arredondojullianjoseph/euler-bernoulli-beam-solver)** — Cubic Hermite 1D Euler-Bernoulli beam vs Hibbeler. Cantilever tip vs PL^3/3EI, relative error 2.6e-16; simply-supported midspan vs 5qL^4/384EI, 2.1e-16; mesh 2/4/8/16, max|dw| drops by about 16. 1D, static; not a frame, not commercial FEA.
 - **[Analytical_Mechanics_Numerical_Methods_Projects](https://github.com/arredondojullianjoseph/Analytical_Mechanics_Numerical_Methods_Projects)** — Bead on a vertical loop: constraint motion with drag and friction. Work-energy check to 1e-5; peak g-force 5.69 once laps stop speeding up. Course project, in progress.
 
 *Earlier computational physics work demonstrating verification practices:*
